@@ -1,0 +1,150 @@
+body {
+	 margin: 0;
+	 color: #4b4b4b;
+	 font-family: georgia;
+	 font-style: normal;
+	 font-weight: 400;
+	 font-size: 1.15em;
+	 background-color: #ffffff;
+	}
+
+	h2 {
+ 	color: #1E1E1E;
+ 	font-style: normal;
+ 	font-weight: 400;
+ 	font-family: verdana;
+ }
+
+ 	h1 {
+ 		color: #10428b;
+ 		font-style: normal;
+ 		font-weight:420;
+ 	}
+
+ 	h1 {
+ 	margin: 0px;
+ 	padding: 20px;
+ 	font-size: 2.10em;
+ 	font-family: georgia;
+ 	text-align: center;
+ 	text-transform: uppercase;
+
+ }
+
+	h2 { 
+    margin-top: 0.5em;
+  	margin-bottom: 0px; 
+   	font-size: 2.0em;
+}
+
+ #background {
+  	margin:0 auto;
+  	max-width:1300px;
+  	min-width:1000px;
+  	background-color: #bfefff;
+  	width: 100%;
+  }
+
+  #hike-pic {
+
+  	 max-width: 90%;
+ 	   display: block;
+ 	   margin-left: auto;
+ 	   margin-right: auto;
+ 	 
+  }
+
+  #adjusting-pic {
+
+  	max-width: 55%;
+  	display: block;
+  	margin: 30px 3%;
+ 	  float: left;
+  }
+  
+  #pic-paragraph {
+
+  	max-width: 30%;
+  	margin: 30px 3%;
+  	float: right;
+  }
+
+  img {
+  	width: 100%;
+
+  }
+
+  a {
+  
+   font-weight: bold;
+   text-decoration: none; 
+}
+
+  a:link {
+	color: #FF944C;
+}
+
+ a:visited {
+	color: #f66979;
+}
+ a:hover, a:active, a:focus {
+	color:#ff9912;
+	text-decoration: underline;
+}
+
+ nav {
+	background-color: #43cd80;
+}
+ nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: 100%;
+}
+
+ nav li {
+	float: left;
+	width: 20%;
+}
+
+ nav li a {
+	display: block;
+	color: #8b3626;
+	padding: 20px 20px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+main {
+	width: 55%;
+}
+ aside {
+ 	 width: 30%;
+ }
+
+ main, aside {
+ 	margin: 30px 3%;
+ 	float: left;
+ 	font-size: 0.875em;
+ }
+
+figure {
+ 	 
+ 	 max-width: 100%;
+ 	 display: block;
+ 	 margin-left: auto;
+ 	 margin-right: auto;
+ 	 padding-top: 25px;
+ 	 padding-bottom: 25px;
+ }
+
+footer {
+
+ 	padding: 20px 10px;
+ 	background-color: Gainsboro;
+ 	color: #000;
+ 	font-size: 0.8em;
+ 	text-align: center;
+ 	clear: left;
+}
